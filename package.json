@@ -1,0 +1,13 @@
+{
+  "name": "vitepress-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sulco/vitepress-experiments.git",
+  "author": "Tomek Sułkowski <tomek.sulkowski@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.45",
+    "vue": "^3.2.47"
+  }
+}
